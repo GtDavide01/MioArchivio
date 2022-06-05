@@ -1,0 +1,80 @@
+body{
+  background-image: url(Immagini/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+/* /////////////////////////////// */
+.Container{
+
+border-radius: 20px 20px 20px 20px;
+background: rgba(0, 0, 0, 0.5);
+
+width: 1250px;
+height: 800px;
+margin-top:50px;
+margin-right: auto;
+margin-left: auto;
+}
+/* ////////////////////////////// */
+
+nav{
+  background-color: lime;
+  width: 1000px;
+  height: 40px;
+  margin-top:10px;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+/* /////////////////////////////// */
+img{
+  display: block;
+  margin:0  auto;
+  margin-top: 100px;
+  height: 100px;
+}
+
+
+h2{
+  display: inline-block;
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+
+}
+p{
+  font-size: 30px;
+  color: lime;
+  text-align: center;
+}
+
+span{
+  color: white;
+  display: block;
+}
+/*  ///////////////////////////////////*/
+.Carica{
+  width: 1000px;
+  height: 450px;
+  margin-top:50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.Statocarica1{
+  background-color: Orange;
+  width: 400px;
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
+.Statocarica2{
+  background-color: rgb(34,139,34);
+  width: 700px;
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
+.Statocarica3{
+  background-color: rgb(201,0,0);
+  width: 200px;
+  height: 30px;
+  border-radius: 10px 10px 10px 10px;
+}
